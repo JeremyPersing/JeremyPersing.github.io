@@ -1,0 +1,45 @@
+body {
+    background-color: #dfdfdf;
+    color: #121312
+}
+
+
+#header h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 95vh;
+    color: #dfdfdf;
+}
+
+#header {
+   background-color: #121312; 
+}
+
+#header, #projects, #about-me, #contact-information {
+    text-align: center;
+}
+
+#arrow {
+    color: #dfdfdf;
+}
+
+#arrow:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+#projects .container {
+    padding-top: 3em;
+}
+
+#projects {
+    height: 100vh;
+    padding-top: 3em;
+}
+
+#about-me {
+    height: 50vh;
+}
+
