@@ -43,3 +43,6 @@ body {
     height: 50vh;
 }
 
+.contact-photo:hover {
+    height: 53px;
+}
