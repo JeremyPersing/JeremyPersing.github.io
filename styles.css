@@ -30,17 +30,8 @@ body {
     cursor: pointer;
 }
 
-#projects .container {
+section {
     padding-top: 3em;
-}
-
-#projects {
-    height: 100vh;
-    padding-top: 3em;
-}
-
-#about-me {
-    height: 50vh;
 }
 
 .contact-photo:hover {
