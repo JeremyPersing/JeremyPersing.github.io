@@ -37,3 +37,7 @@ section {
 .contact-photo:hover {
     height: 53px;
 }
+
+.contact-header {
+    color: black;
+}
