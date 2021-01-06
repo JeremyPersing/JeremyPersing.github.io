@@ -1,5 +1,5 @@
 body {
-    background-color: #dfdfdf;
+    background-color: #f0ecec;
     color: #121312
 }
 
@@ -10,11 +10,12 @@ body {
     align-items: center;
     align-content: center;
     height: 95vh;
-    color: #dfdfdf;
+    color: #3f3f3f;
 }
 
 #header {
-   background-color: #121312; 
+   background-color: 	#0d0d0f; 
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 #header, #projects, #about-me, #contact-information {
@@ -22,7 +23,7 @@ body {
 }
 
 #arrow {
-    color: #dfdfdf;
+    color: #3f3f3f;
 }
 
 #arrow:hover {
@@ -30,8 +31,14 @@ body {
     cursor: pointer;
 }
 
+.work {
+    background: #f0ecec;
+    color: #3f3f3f;
+}
+
 section {
     padding-top: 3em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .contact-photo:hover {
