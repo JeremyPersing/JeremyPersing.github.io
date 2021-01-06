@@ -48,3 +48,8 @@ section {
 .contact-header {
     color: black;
 }
+
+.border-photo {
+    border: 2px solid #3f3f3f;
+    border-radius: 100%;
+}
