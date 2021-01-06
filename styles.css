@@ -1,6 +1,5 @@
 body {
-    background-color: #f0ecec;
-    color: #121312
+    font-size: 100%;
 }
 
 
@@ -10,7 +9,8 @@ body {
     align-items: center;
     align-content: center;
     height: 95vh;
-    color: #3f3f3f;
+    color: #444444;
+    font-size: 3.5em;
 }
 
 #header {
@@ -23,7 +23,8 @@ body {
 }
 
 #arrow {
-    color: #3f3f3f;
+    color: #444444;
+    height: 5vh;
 }
 
 #arrow:hover {
