@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.9863ded3.chunk.js",
+    "main.js.map": "/static/js/main.9863ded3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f34b1d03.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f34b1d03.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.5262ab3a.chunk.js": "/static/js/2.5262ab3a.chunk.js",
+    "static/js/2.5262ab3a.chunk.js.map": "/static/js/2.5262ab3a.chunk.js.map",
+    "static/js/3.74cc1d33.chunk.js": "/static/js/3.74cc1d33.chunk.js",
+    "static/js/3.74cc1d33.chunk.js.map": "/static/js/3.74cc1d33.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5262ab3a.chunk.js.LICENSE.txt": "/static/js/2.5262ab3a.chunk.js.LICENSE.txt",
+    "static/media/caloriebalance.de6bcaac.png": "/static/media/caloriebalance.de6bcaac.png",
+    "static/media/compiler.fdea00c7.jpeg": "/static/media/compiler.fdea00c7.jpeg",
+    "static/media/profile.7944878a.jpg": "/static/media/profile.7944878a.jpg",
+    "static/media/skymail.c5a3dbd5.jpg": "/static/media/skymail.c5a3dbd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34b1d03.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.5262ab3a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9863ded3.chunk.js"
+  ]
+}
