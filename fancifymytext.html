@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fancify Shamcify</title>
+    <script src="fancifymytext.js"></script>
+  </head>
+
+  <body>
+    <h1>Fancify my Text</h1>
+
+    <div style="border: 1px solid black">
+      <label for="textarea">Text</label>
+      <textarea id="textarea" name="textarea" rows="4" cols="30">
+Here resides the secret of a lifetime </textarea
+      >
+    </div>
+    <div style="border: 1px solid black">
+      <button onclick="biggerClicked()">Bigger!</button>
+      <input
+        onchange="radioClicked()"
+        type="radio"
+        id="fancy"
+        name="textStyle"
+        value="FancyShmancy"
+      />
+        <label for="fancy">FancyShmancy</label>  
+      <input
+        onchange="radioClicked()"
+        type="radio"
+        id="boring"
+        name="textStyle"
+        value="BoringBetty"
+        checked
+      />
+      <label for="boring">BoringBetty</label>
+
+	  <button onclick="mooClicked()">Moo</button>
+    </div>
+  </body>
+</html>
